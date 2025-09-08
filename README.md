@@ -49,39 +49,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Hifi58&theme=transparent" />
-  </a>
-</p>
-
-<p align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Hifi58&theme=github-compact&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hifi58&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="visiteurs" />
-</p>
-
----
-
-## 🗂️ Projets mis en avant
-
-* **C Fundamentals** → structures, pointeurs, gestion mémoire, mini‑projets C.
-* **Unreal Playground** → prototypes UE5 (mouvements, UI, sauvegarde, IA basique).
-* **Rust Experiments** → exercices et petits projets pour progresser.
-* **Hybrid Athlete** → scripts/note‑books d’entraînement & suivi (nutrition/HRV).
-
----
-
-## 🧭 Objectifs 2025–2026
-
-* ✅ Publier 3+ projets pédagogiques (C, Python, Rust) **documentés**.
-* 💻 Déployer un projet full‑stack complet.
-* 🎮 Sortir une **vertical slice** UE5.
-* ✍️ Maintenir un journal d’apprentissage (weekly).
-* 🚀 Contribuer à un projet open‑source.
-
 ---
 
 <p align="center">Made with ❤️ — open to collaborations</p>
