@@ -40,36 +40,32 @@
 
 ## 📊 Stats GitHub
 
-> Remplace `YOUR_GITHUB_USERNAME` par ton **pseudo GitHub exact**.
-
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_title=false&hide_rank=false&count_private=true" />
+    <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=Hifi58&show_icons=true&theme=transparent&hide_title=false&hide_rank=false&count_private=true" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img alt="Top Langs" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=10&theme=transparent" />
+    <img alt="Top Langs" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hifi58&layout=compact&langs_count=10&theme=transparent" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Hifi58&theme=transparent" />
   </a>
 </p>
 
 <p align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=false" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Hifi58&theme=github-compact&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="visiteurs" />
+  <img src="https://komarev.com/ghpvc/?username=Hifi58&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="visiteurs" />
 </p>
 
 ---
 
 ## 🗂️ Projets mis en avant
-
-> Épingle certains repos sur ton profil. Voici quelques idées de sections — remplace les liens/titres.
 
 * **C Fundamentals** → structures, pointeurs, gestion mémoire, mini‑projets C.
 * **Unreal Playground** → prototypes UE5 (mouvements, UI, sauvegarde, IA basique).
